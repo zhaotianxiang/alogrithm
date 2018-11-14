@@ -2,7 +2,11 @@
 #include<stack>
 
 using namespace std;
-
+/**
+ * 主要思想：
+ * 1: 一个栈用来当队列， 一个栈用来逆序 
+ * 2: 注意C++栈的pop操作不会返回任何值
+ */
 class Solution
 {
 private:

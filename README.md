@@ -1,1 +1,1 @@
-# alogrithm
+# This is a project for alogrithm programming
